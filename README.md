@@ -13,7 +13,7 @@
  > * I have tried and tried but just can't keep these colors in place,
 
 
-![not just in space](https://raw.githubusercontent.com/konichar/konichar/master/readme_img.png)
+![not just in space](https://raw.githubusercontent.com/konichar/konichar/master/konich.png)
 
 
 Skills: Javascript ( Reactjs| Vuejs) | Python (Flask|Django) | Linux 
