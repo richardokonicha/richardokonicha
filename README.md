@@ -4,16 +4,15 @@
 -->
 
 
-### Hi there 👋, I am Richard Okonicha.
+![not just in space](https://raw.githubusercontent.com/konichar/konichar/master/konich.png)
 
+
+### Hi there 👋, I am Richard Okonicha.
 
  > * Spaceships hop from my qwerty keys,
  > * If you look more closely, I promise you would see.
  > * When linted they swing as they float as they would do so in space,
  > * I have tried and tried but just can't keep these colors in place,
-
-
-![not just in space](https://raw.githubusercontent.com/konichar/konichar/master/konich.png)
 
 
 Skills: Javascript ( Reactjs| Vuejs) | Python (Flask|Django) | Linux 
