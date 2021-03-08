@@ -4,7 +4,7 @@
 -->
 
 
-![not just in space](https://raw.githubusercontent.com/konichar/konichar/master/konich.png)
+![not just in space](https://res.cloudinary.com/konichar/image/upload/v1615217792/konichar/NoPath_a1ch54.png)
 
 
 ### Hi there 👋, I am Richard Okonicha.
