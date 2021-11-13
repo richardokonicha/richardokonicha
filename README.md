@@ -4,7 +4,8 @@
 -->
 
 
-![not just in space]("./Group 10.png")
+![not just in space](Group 10.png)
+
 
 ### Hi there 👋, I am Richard Okonicha.
 
