@@ -4,10 +4,7 @@
 -->
 
 
-![not just in space](https://res.cloudinary.com/konichar/![Group 10](https://user-images.githubusercontent.com/48168290/141650796-28f56acf-d6ec-4ff9-a191-07920fce5231.png)
-image/upload/v1615217792/konichar/NoPath_a1ch54.png)
-![Uploading Group 10.png…]()
-
+![not just in space]("./Group 10.png")
 
 ### Hi there 👋, I am Richard Okonicha.
 
