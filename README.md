@@ -4,8 +4,6 @@
 -->
 
 
-![not just in space](https://github.com/konichar/konichar/blob/master/Group%2010.png)
-
 
 ### Hi there 👋, I am Richard Okonicha.
 
