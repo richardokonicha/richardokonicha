@@ -3,9 +3,20 @@
 **konichar/konichar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<pre>
+<details>
+<summary>
+<samp>
+richard@followfootprint:~$ <kbd><samp>echo User</samp></kbd>
+</samp>
+</summary>
+ 
+Congratulations, you've found me
+ 
+Have a look around and see what I have been upto
 
-
-### Hi there 👋, I am Richard Okonicha.
+</details>
+</pre>
 
 ![learbanner](https://user-images.githubusercontent.com/48168290/151271583-d06efb21-8c70-41ed-8b76-5bce1a95a36e.jpeg)
 
@@ -13,4 +24,4 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konichar&show_icons=true)  
  -->
-![Profile views](https://gpvc.arturio.dev/konichar)
+![Profile views](https://gpvc.arturio.dev/richardokonicha)
