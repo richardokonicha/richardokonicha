@@ -15,7 +15,9 @@ Congratulations, you've found me
  
 Have a look around and see what I have been upto
 
-<img src='mine.svg' alt="me" width='400'/>
+<!-- <img src='mine.svg' alt="me" width='400'/> -->
+
+<img src='mine2.svg' alt="me" width='400'/>
 
 </details>
 </pre>
