@@ -1,35 +1,34 @@
 
-<!--
-**konichar/konichar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<pre>
-<details>
-<summary>
+<p align="center">
+<img src='avatar.svg' alt="me" width='400'/>
+<summary align="center">
 <samp>
-richard@followfootprint:~$ <kbd><samp>echo User</samp></kbd>
+richardokonicha@gmail.com:~$ <kbd><samp>echo User</samp></kbd>
 </samp>
 </summary>
- 
+
+  <p align="center">Senior Engineer, Golfer and Entrepreneur<p>
+  <p align="center">
+    <a href="https://github.com/richardokonicha">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></img>
+    </a>
+    <a href="https://youtube.com/theroadmap?sub_confirmation=1">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'></img>
+    <a href="https://www.instagram.com/r.e.e.c.h.e.e">
+   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>
+    </a>
+    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+    	<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' />
+    </a>
+  </p>
+</p>
+
+<br>
+
+<p align="center">
 Congratulations, you've found me
  
-Have a look around and see what I have been upto
-
-<!-- <img src='mine.svg' alt="me" width='400'/> -->
-
-<img src='mine2.svg' alt="me" width='400'/>
-
-</details>
-</pre>
+</p>
+<p align="center"><samp>Have a look around and see what I have been upto these days</samp></p>
 
 
-<div>
-
-</div>
-![learbanner](https://user-images.githubusercontent.com/48168290/151271583-d06efb21-8c70-41ed-8b76-5bce1a95a36e.jpeg)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='13'>](https://github.com/konichar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='13'>](https://dev.to/konichar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='13'>](https://www.linkedin.com/in/richardokonicha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='13'>](https://www.facebook.com/richardokonicha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='13'>](https://www.instagram.com/r.e.e.c.h.e.e/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='13'>](https://twitter.com/konichar) 
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konichar&show_icons=true)  
- -->
-![Profile views](https://gpvc.arturio.dev/richardokonicha)
