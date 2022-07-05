@@ -7,7 +7,7 @@ richardokonicha@gmail.com:~$ <kbd><samp>echo User</samp></kbd>
 </samp>
 </summary>
 
-  <p align="center">Senior Engineer, Golfer and Entrepreneur<p>
+  <p align="center">Senior Engineer<p>
   <p align="center">
     <a href="https://github.com/richardokonicha">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></img>
