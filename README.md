@@ -29,6 +29,6 @@ richardokonicha@gmail.com:~$ <kbd><samp>echo User</samp></kbd>
 Congratulations you've found me
  
 </p>
-<p align="center"><samp>Have a look around and see what I have been upto these days🤼‍ you know i'm that naughty boy 😁 </samp></p>
+<p align="center"><samp>Have a look around and see what I have been upto these days🤼‍  </samp></p>
 
 
