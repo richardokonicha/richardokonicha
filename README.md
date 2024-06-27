@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='avatar.svg' alt="me" width='400'/>
+<!-- <img src='avatar.svg' alt="me" width='400'/> -->
 <summary align="center">
 <samp>
 richardokonicha@gmail.com:~$ <kbd><samp>echo User</samp></kbd>
